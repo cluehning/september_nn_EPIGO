@@ -279,5 +279,7 @@ preserves the measured signal descriptors. Biological interpretation still
 requires comparisons across marks, regions, conditions, and, eventually,
 independent labels or experimental evidence.
 
+
+
 ### Development Note
 Parts of the codebase were created with AI assistance ("vibe coding"), but the underlying ideas, research direction, experimental design, mathematical reasoning, and interdisciplinary extensions are my own. AI was used as an implementation and exploration tool, with all major decisions, modifications, and interpretations guided by the author.
